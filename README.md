@@ -1,10 +1,9 @@
 elixir-sips-rss
 ===============
 
-A toy project to download the latest episode(s) of Elixir Sips.
+A toy project to download the latest episode(s) of [Elixir Sips](http://elixirsips.com/).
 
 A bit of irony that this project is built with Node.
-
 
 # Run it
 
