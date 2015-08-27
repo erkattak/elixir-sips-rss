@@ -1,0 +1,21 @@
+{
+  "name": "elixirsips-rss",
+  "author": "Erik Straub",
+  "version": "1.0.0",
+  "description": "Download the latest elixirsips episode(s)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "author": "Erik Straub",
+  "license": "ISC",
+  "dependencies": {
+    "URIjs": "^1.16.0",
+    "bluebird": "^2.9.34",
+    "filepath": "^1.0.0",
+    "got": "^4.1.1",
+    "lodash": "^3.10.1",
+    "parserss": "^0.2.0"
+  }
+}
